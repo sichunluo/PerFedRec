@@ -14,7 +14,7 @@ python Central.py
 ```
 To train the model in federated setting:
 ```
-python Central.py
+python FedAvg.py
 ```
 To train the model in the paper:
 ```
