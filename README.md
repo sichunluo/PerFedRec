@@ -20,7 +20,7 @@ In this paper, we propose a Graph Neural Network based Personalized Federated Re
 
 <div style="text-align:center">
 <img src="system.png" alt="Framework" width="50%" height="50%">
-<\div>
+</div>
 
 ## Train
 
